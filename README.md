@@ -29,7 +29,24 @@ This is a study purpose application where I applied the MVC model.
     </bl>
 </div>
 
+## 🧰 Installation
+
+1. Clone the repository and install dependencies:
+
+   ```bash
+   $ git clone git@github.com:Felipe1496/NASA-project.git
+   $ cd NASA-project
+   $ npm install
+   ```
+
+2. To run the project in production mode, run:
+
+   ```bash
+   $ npm run deploy
+   ```
+
 <h2>📷 Screenshots</h2>
 <img src="./docs/Launch.png" />
 <img src="./docs/Upcoming.png" />
 <img src="./docs/History.png" />
+
